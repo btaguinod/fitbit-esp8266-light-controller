@@ -1,0 +1,3 @@
+[submodule "fitbit-light-controller"]
+	path = fitbit-light-controller
+	url = https://github.com/btaguinod/fitbit-light-controller.git
